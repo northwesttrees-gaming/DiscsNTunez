@@ -5,7 +5,7 @@ This is an addon for CCTVCraft 5.4.0 and above that adds a functional music app 
 
 # 😼 GitHub Pages
 - Official Wiki
-- Issue Tracker
+- [Issue Tracker](https://github.com/northwesttrees-gaming/DiscsNTunez/issues)
 - Releases
 
 # ⬇️ Official Download Sites
