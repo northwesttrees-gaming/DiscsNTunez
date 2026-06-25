@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.northwesttreesgaming.com/mods/discs-n-tunez#downloads",
+  "1.21.8": {
+    "1.0.0": "Added support for CCTVCraft 5.4.\nAdded Music Editor GUI.\nAdded Creative Music Maker block.\nAdded Music Player block.\nAdded Rainy Nights Disc and Darkstep Discs.\nAdded new structure found in Swamps and Mangroves.\nAdded new feature found in the Deep Dark.\nAdded Empty Disc and Music Disc items.\nAdded DiscsNTunez command.\nAdded DiscsNTunez creative tab."
+  },
+  "promos": {
+    "1.21.8-latest": "1.0.0",
+    "1.21.8-recommended": "1.0.0"
+  }
+}
